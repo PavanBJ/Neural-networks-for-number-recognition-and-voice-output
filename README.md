@@ -1,1 +1,1 @@
-# Neural-networks-for-number-recognition-and-voice-output
+# Neural-networks-for-number-recognition-with-voice-output
